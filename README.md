@@ -1,4 +1,4 @@
-# PlanetbiruPhotoEditor
-Planetbiru Photo Editor is a web-based photo editor using HTML5 Canvas and JavaScript
+# Photo Editor
+O Photo Editor é um editor de fotos baseado na web que usa HTML5 Canvas e JavaScript
 
-Demo http://planetbiru.com/apps/ppe/
+Demo: https://php-photo-editor.herokuapp.com/
